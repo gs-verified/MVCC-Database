@@ -4,9 +4,6 @@
 
 MVCC Database is an enterprise-grade multi-version concurrency control system that provides snapshot isolation, version chains, conflict detection, optimistic locking, garbage collection, persistent storage, incremental backups, and point-in-time recovery - the same technology used in PostgreSQL, Oracle, and other major databases.
 
-## 🎬 Demo
-
-<https://youtu.be/bBj63fh8H_I>
 
 ## 🚀 Quick Start
 
